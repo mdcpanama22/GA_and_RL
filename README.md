@@ -1,6 +1,9 @@
 # GA_and_RL
+
+<a href="https://docs.google.com/document/d/19ckb0ytVEYJpcITZ0T6wLlKSg_AKnpF4iZnfm6W8NCI/edit?usp=sharing"> Link to our write-up </a>
+
 This is my test bank for different Genetic Algorithm and Reinforcement Learning implementations.
-/bin holds:<br>
+/root holds these Python scripts:<br>
 GA.py<br>
 RL.py<br>
 es.py<br>
