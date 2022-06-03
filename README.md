@@ -12,9 +12,10 @@ es.py<br>
 To run make sure you have all the relevant dependencies installed:<br>
 pip3 install gym<br>
 ... gym[atari]<br>
+... autorom[accept-rom-license]<br>
 ... atari-py<br>
 ... numpy<br>
-... panda<br>
+... pandas<br>
 ... cma<br>
 
 All you need to do is run GA.py for the Genetic Algorithm and it will output the files to its root. The formatting in the rar file (if you run the code the generated code creates a different structure depicted at the bottom of the readme) is as such: 
